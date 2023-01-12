@@ -25,6 +25,7 @@
           <!-- Contact Button -->
           <NuxtLink href="mailto:gabeamaya2@gmail.com" class="bg-zinc-900 hover:bg-zinc-700 px-2 py-2 rounded-sm w-fit md:px-4 slg:px-6 slg:py3 transition-colors border-0">Contact Me</NuxtLink>
         </div>
+        <div class="w-full h-[2px] lg:w-96 mx-auto" style="background: linear-gradient(90deg, #050505,#A9C9FF,#FFBBEC,#050505);"></div>
     </div>
   </div>
 </template>
