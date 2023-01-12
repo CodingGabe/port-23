@@ -5,7 +5,7 @@
       <div class="flex flex-col gap-8 w-full lg:gap-12">
         <h1 class="text-2xl sm:text-3xl md:text-5xl">My Projects</h1>
         <p class="text-md lg:text-lg slg:leading-8 leading-relaxed">Full list of my most recent projects showcasing my skills in Development and Design.</p>
-        <hr class="border-0 opacity-25 h-[4px] bg-zinc-400">
+        <div class="w-full h-[2px] lg:w-96 mx-auto" style="background: linear-gradient(90deg, #050505,#A9C9FF,#FFBBEC,#050505);"></div>
         <!-- Projects container -->
         <div class="flex flex-col items-center justify-center gap-28">
           <!-- Project -->
