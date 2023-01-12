@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: Shop
+    <p class="text-xl sm:2xl md:3xl">My Shop: Coming Soon</p>
   </div>
 </template>
 
