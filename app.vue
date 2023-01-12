@@ -6,6 +6,9 @@
 </script>
 
 <template>
+  <head>
+    <link rel="stylesheet" href="https://use.typekit.net/vhm5qac.css">
+  </head>
   <div>
     <Navigation/>
     <div class="w-full">
