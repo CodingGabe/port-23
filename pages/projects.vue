@@ -25,7 +25,7 @@
             <img src="../assets/img/zarya.png" alt="Zarya Creative Studio" class="rounded-md w-full object-cover">
             <!-- Project content -->
             <div class="flex flex-col items-left gap-6">
-              <h3>Zarya Creative Studio</h3>
+              <h3 class="text-xl sm:text-2xl md:text-4xl">Zarya Creative Studio</h3>
               <p class="text-md lg:text-lg slg:leading-8 leading-relaxed">A beautiful website crafted by me in Webflow.  Main goal was to really flex my design skills and think outside of the norm. This agency is for small business' to hire my friend and I for creative services at an affordable rate.</p>
               <NuxtLink href="https://gabes-shopping-list.netlify.app" class="px-2 py-2 rounded-md transition-colors border-[1px] w-fit text-sm md:px-4 slg:px-6 bg-teal-500 border-black hover:bg-teal-700">View Site</NuxtLink>
             </div>
