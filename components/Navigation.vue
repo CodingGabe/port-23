@@ -12,7 +12,6 @@
                     <NuxtLink to="/shop"><span
                         class="px-3 py-1 pb-2 pt-2 rounded-md transition-all sm:px-6 sm:py-2">Shop</span></NuxtLink>
                 </div>
-            
         </nav>
     </div>
 </template>
