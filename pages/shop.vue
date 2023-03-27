@@ -8,7 +8,7 @@
       <div class="flex flex-col gap-8">
       <NuxtLink :to="`${shirt.url}`" target="_blank"><img :src="`${shirt.image}`" class="rounded-md w-full object-cover max-w-md content-center"></NuxtLink>
         <div class="flex flex-col items-left">
-          <h3 class="text-xl lg:text-2xl mb-4">{{ shirt.name }}</h3>
+          <h3 class="text-xl lg:text-2xl mb-2">{{ shirt.name }}</h3>
           <p class="text-lg font-bold">${{ shirt.price }}</p>
         </div>
       </div>
