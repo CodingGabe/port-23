@@ -30,7 +30,10 @@ export default {
               </NuxtLink>
           </div>
           <!-- Contact Button -->
-          <NuxtLink href="mailto:gabeamaya2@gmail.com" class="bg-zinc-900 hover:bg-zinc-700 px-2 py-2 rounded-sm w-fit md:px-4 slg:px-6 slg:py3 transition-colors border-0 text-slate-50">Contact Me</NuxtLink>
+          <div class="hero-btn_wrapper">
+            <NuxtLink href="mailto:gabeamaya2@gmail.com" class="bg-zinc-900 hover:bg-zinc-700 px-2 py-2 rounded-sm w-fit md:px-4 slg:px-6 slg:py3 transition-colors border-0 text-slate-50">Contact Me</NuxtLink>
+            <NuxtLink href="https://drive.google.com/file/d/1u2-JwpNrHsc3x52xI7wF9uPOzvLz7g3s/view?usp=sharing" target="_blank" rel="noopener" class="bg-transparent hover:bg-zinc-700 px-2 py-2 rounded-sm w-fit md:px-4 slg:px-6 slg:py3 transition-colors border-0 text-slate-50 ml-2">Download Resume</NuxtLink>
+          </div>
         </div>
         <div class="w-full h-[2px] lg:w-96 mx-auto" style="background: linear-gradient(90deg, #050505,#A9C9FF,#FFBBEC,#050505);"></div>
         <FeaturedProjects/>

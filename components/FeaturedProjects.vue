@@ -12,11 +12,11 @@
                         
                     </div>
                 </NuxtLink>
-                <NuxtLink href="https://sombruh.webflow.io/" class="flex flex-col w-full p-6 py-6 lg:p-6 lg:py-10 items-center gap-8 rounded-sm bg-zinc-900 transition md:hover:scale-110" target="_blank">
-                    <img src="../assets/img/zarya.png" alt="Zarya Creative" class="w-full object-cover rounded-sm">
+                <NuxtLink href="https://www.gabecreativedept.com/" class="flex flex-col w-full p-6 py-6 lg:p-6 lg:py-10 items-center gap-8 rounded-sm bg-zinc-900 transition md:hover:scale-110" target="_blank">
+                    <img src="../assets/img/dept-thumb.png" alt="Gabe Creative Dept." class="w-full object-cover rounded-sm">
                     <div class="flex-flex-col justify-between gap-4">
-                        <h3 class="text-lg sm:text-xl md:text-2xl mb-3 text-slate-50">Zarya Creative Studio</h3>
-                        <p class="text-md lg:text-lg slg:leading-8 text-zinc-400">This creative studio was created with the goal of helping small business create beautiful websites at an affordable price while not sacrificing creativity.</p>
+                        <h3 class="text-lg sm:text-xl md:text-2xl mb-3 text-slate-50">Gabe Creative Dept.</h3>
+                        <p class="text-md lg:text-lg slg:leading-8 text-zinc-400">Launched my newest project fully custom and built for seo to find clients and help build their business with my creative vision.</p>
                     </div>
                 </NuxtLink>
             </div>
