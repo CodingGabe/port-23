@@ -16,7 +16,7 @@
             <div class="flex flex-col items-left gap-6">
               <h3 class="text-xl sm:text-2xl md:text-4xl">React Task Manager App</h3>
               <p class="text-md lg:text-lg slg:leading-8 leading-relaxed">Super simple Task manager app similar to the shopping app but this is built with React!</p>
-              <NuxtLink href="https://650b4fd115bafa46873fc697--gabes-react-task-app.netlify.app/" class="bg-zinc-900 hover:bg-zinc-700 px-2 py-2 rounded-sm w-fit md:px-4 slg:px-6 slg:py3 transition-colors border-0 font-bold text-slate-50">View App <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-up-right inline"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></NuxtLink>
+              <NuxtLink href="https://gabes-react-task-app.netlify.app/" class="bg-zinc-900 hover:bg-zinc-700 px-2 py-2 rounded-sm w-fit md:px-4 slg:px-6 slg:py3 transition-colors border-0 font-bold text-slate-50">View App <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-up-right inline"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></NuxtLink>
             </div>
           </div>
           <!-- Project -->
